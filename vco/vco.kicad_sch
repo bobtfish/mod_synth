@@ -1,0 +1,18 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 16f29fe8-8baa-4a1f-813f-57b9c1cacec1)
+
+  (paper "A4")
+
+  (title_block
+    (title "VCO")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
